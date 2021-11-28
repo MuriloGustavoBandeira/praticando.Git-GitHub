@@ -1,0 +1,24 @@
+Após criar um pasta do projeto,
+entre na mesma e inicie com os comandos abaixo.
+
+git config --global user.name "nome" => configura o nome do usuário
+
+git config --global user.email "email conta gitHub"  => configura para enviar o projeto no repositório virtual
+
+git init => inicia o git
+
+git status => mostra todo conteúdo
+
+git add . => pega todo o conteúdo do editor e add 
+
+git commit -m "nome sobre o conteúdo " => envia o conteúdo para o repositório local
+
+git checkout -b novo branch => cria um novo branch
+
+git branch => mostra todos os branchs
+
+git checkout nome do branch => coloca branch em funcionamento 
+
+git branch -d nome do branch => deleta o branch local
+
+git log => visualisa todo repositório local
